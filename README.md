@@ -29,7 +29,7 @@ once it receives a https call it redirects to servers(that apis are running), up
 It can also redirect based on path like /orders to one server and /users to another etc.,
 
 ### SSL
-This load blancer is made secure using SSL
+This load balancer is made secure using SSL
 for SSL we need to install certbot 
 ```
 brew install certbot
